@@ -1,0 +1,28 @@
+#include "../src/Core/colorbutton.h"
+#include "../src/Core/colorgrid.h"
+
+#include "../src/Core/recentfiles.h"
+
+#include "../src/Core/actionlabel.h"
+#include "../src/Core/actionbox.h"
+#include "../src/Core/actionpanel/actiongroup.h"
+#include "../src/Core/actionpanel/actionpanel.h"
+#include "../src/Core/actionpanel/actionpanelscheme.h"
+#include "../src/Core/actionpanel/winxppanelscheme.h"
+#include "../src/Core/actionpanel/winvistapanelscheme.h"
+#include "../src/Core/actionpanel/macpanelscheme.h"
+#include "../src/Core/actionpanel/androidpanelscheme.h"
+
+#include "../src/Core/scrollpanner.h"
+
+#include "../src/Core/widgetpopup.h"
+
+#include "../src/Core/tablistmenu.h"
+
+#include "../src/Core/pathpicker.h"
+
+#include "../src/Core/ledwidget.h"
+
+#include "../src/Core/optionslider.h"
+
+#include "../src/Core/spinslider.h"

@@ -1,0 +1,5 @@
+#include "../src/Charts/axisbase.h"
+#include "../src/Charts/plotterbase.h"
+#include "../src/Charts/barchartplotter.h"
+#include "../src/Charts/piechart.h"
+#include "../src/Charts/ringchart.h"
