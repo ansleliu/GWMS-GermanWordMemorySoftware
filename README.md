@@ -19,7 +19,7 @@ SQLite的设计目标是嵌入式的，而且目前已经在很多嵌入式产�
 德语背单词软件的饼图，柱状图，点线图等控件是在Qt的第三方开源UI组件库QSint的基础上改进而来的。
 QSint还包括其它组件，如 ActionLabel 、ActionBox、ActionPanel、ColorGrid等。
 详细了解QSint，请访问下面网站：
-             1.QSint项目网站http://sintegrial.com/qsint/pages/en/index.php
+             1.QSint项目网站https://sourceforge.net/projects/qsint/
 
 德语背单词软件的记忆算法是基于SuperMemo的记忆算法SM2改进而来的。
 SuperMemo（意为“Super Memory”,超级记忆）是一种基于对长期记忆的学习方法的研究,同时也有一款相应的辅助记忆软件。
