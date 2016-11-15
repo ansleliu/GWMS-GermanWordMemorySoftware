@@ -8,7 +8,7 @@ German Word Memory Software
 Qt提供给应用程序开发者建立艺术级的图形用户界面所需的所有功能，它很容易扩展，并且允许真正地组件编程。
 详细了解Qt，请访问下面网站：
              1.Qt项目开源社区网站http://qt-project.org/
-             2.Qt商业版官方网站http://qt.digia.com/
+             2.Qt商业版官方网站https://www.qt.io/
 
 德语背单词软件的数据库使用开源的轻型数据库SQLite。
 SQLite的设计目标是嵌入式的，而且目前已经在很多嵌入式产品中使用了它，它占用资源非常的低，在嵌入式设备中，
