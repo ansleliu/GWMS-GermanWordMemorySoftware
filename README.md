@@ -1,4 +1,4 @@
-# GWMS-German-Word-Memory-Software
+# GWMS-German Word Memory Software
 German Word Memory Software
 
 
