@@ -12,8 +12,8 @@ To learn more about Qt, visit the following website:
 Qt提供给应用程序开发者建立艺术级的图形用户界面所需的所有功能，它很容易扩展，并且允许真正地组件编程。
 详细了解Qt，请访问下面网站：
      
-   1.Qt project open source community website/Qt项目开源社区网站 http://qt-project.org/
-   2.Qt Business Edition official website/Qt商业版官方网站 https://www.qt.io/
+1.Qt project open source community website/Qt项目开源社区网站 http://qt-project.org/
+2.Qt Business Edition official website/Qt商业版官方网站 https://www.qt.io/
 
 GWMS uses the open source light database SQLite as its database.
 
@@ -25,7 +25,7 @@ SQLite的设计目标是嵌入式的，而且目前已经在很多嵌入式产�
 可能只需要几百K的内存就够了。同时它也能够支持Windows/Linux/Unix等等主流的操作系统，同时能够跟很多程序语言相结合。
 详细了解SQLite，请访问下面网站：
      
-   1.SQLite official website/SQLite官方网站 http://www.sqlite.org/ 
+1.SQLite official website/SQLite官方网站 http://www.sqlite.org/ 
 
 In GWMS, the pie chart, histogram, dotted line graph and other controls components are  improved based on the third-party open source UI component library QSint of Qt .
 QSint also includes other components, such as ActionLabel, ActionBox, ActionPanel, ColorGrid and so on.
@@ -35,7 +35,7 @@ For more information about QSint, visit the following website:
 QSint还包括其它组件，如 ActionLabel 、ActionBox、ActionPanel、ColorGrid等。
 详细了解QSint，请访问下面网站：
      
-   1.QSint Project Website/QSint项目网站https://sourceforge.net/projects/qsint/
+1.QSint Project Website/QSint项目网站https://sourceforge.net/projects/qsint/
 
 The memory algorithm of GWMS  is improved based on SuperMemo memory algorithm SM2.
 SuperMemo ("Super Memory") is a study of learning methods based on long-term memory, as well as a corresponding memory software.
@@ -47,7 +47,7 @@ SuperMemo（意为“Super Memory”,超级记忆）是一种基于对长期记�
 研究项目的作者为Dr. Edward Jacek Gorzelańczyk与Dr. Piotr Wozniak。
 详细了解SuperMemo的记忆算法SM-2，请访问下面网站：
    
-   1.SuperMemo的Algorithm SM-2: http://www.supermemo.com/english/ol/sm2.htm
+1.SuperMemo的Algorithm SM-2: http://www.supermemo.com/english/ol/sm2.htm
 
 In the course of the development of the German word, I referred to the development ideas of many English word-back words, such as "word storm", "Anki", "word island" and so on,
 I would like to express my appreciation to them.
