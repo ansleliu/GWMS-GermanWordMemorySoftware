@@ -1,6 +1,7 @@
 # GWMS-German Word Memory Software
 German Word Memory Software
 
+Intoduction Video : http://pan.baidu.com/s/1nt3FV77
 
 GWMS is developed based on cross-platform C++ GUI application development framework Qt.
 
