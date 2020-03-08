@@ -1,6 +1,26 @@
 # GWMS-German Word Memory Software
 German Word Memory Software
 
+<p align="center">
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/GWMS.PNG" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E4%B8%BB%E7%95%8C%E9%9D%A22.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%951.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%952.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%90%AF%E5%8A%A8%E8%AF%8D%E5%BA%93%E7%BC%96%E8%BE%91%E5%99%A8.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E8%AF%8D%E5%BA%93%E7%BC%96%E8%BE%91%E5%99%A83.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E6%89%93%E5%BC%80%E5%BE%B7%E8%AF%AD%E8%AF%8D%E5%85%B8.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E9%80%89%E9%A1%B9%E8%AF%8D%E5%BA%93%E7%AE%A1%E7%90%86.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%AD%A6%E4%B9%A0%E9%80%89%E6%8B%A91.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%AD%A6%E4%B9%A0%E7%95%8C%E9%9D%A21.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%AD%A6%E4%B9%A0%E9%85%8D%E7%BD%AE%E5%8F%91%E9%9F%B3%E9%85%8D%E7%BD%AE.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E5%AD%A6%E4%B9%A0%E9%85%8D%E7%BD%AE%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%BC%8F.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%901.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%903.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%904.jpg" />
+     <img src="https://github.com/ansleliu/GWMS-GermanWordMemorySoftware/blob/master/Software%20Images/%E9%80%89%E9%A1%B9%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF.jpg" />
+</p>
+
 Intoduction Video : https://www.youtube.com/watch?v=L2XxyhGJ4qk
 
 GWMS is developed based on cross-platform C++ GUI application development framework Qt.
